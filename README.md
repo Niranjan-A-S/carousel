@@ -1,1 +1,1 @@
-# A carousel component which allows the wide range of end user customization
+# A carousel component which allows  wide range of end user customization
